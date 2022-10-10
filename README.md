@@ -1,4 +1,4 @@
-# NewBull Block Explorer
+# NewBull Block Explorer.
 
 [NewBull Block Explorer](https://github.com/newbull/newbull-block-explorer) is a simple and lightweight block explorer written in PHP(no database required) with `easybitcoin.php` ([get it here](https://github.com/aceat64/EasyBitcoin-PHP)).
 
